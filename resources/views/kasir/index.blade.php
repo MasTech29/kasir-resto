@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kasir Resto</title>
-    <link rel="shortcut icon" type="image/jpg" href="{{ asset('favicon.jpg') }}?v=99">
-<link rel="icon" type="image/jpg" href="{{ asset('favicon.jpg') }}?v=99">
+    <link rel="icon" href="data:image/svg+xml,[STRIPPED]">
     <script src="https://cdn.tailwindcss.com"></script>
     <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
